@@ -2,14 +2,20 @@
 
 ## 2022
 【数据库】
-1月6日 DC2021分布式数据库开发者大会  
-https://live.infoq.cn/room/1267  
+1月6日 DC2021分布式数据库开发者大会 
+https://live.infoq.cn/room/1267    
 
-【开发者】  
-1月6日 微信发布会    
+【微信】  
+1月6日 微信公开课2022 PRO     
+https://search.bilibili.com/all?keyword=%E5%BE%AE%E4%BF%A1%E5%85%AC%E5%BC%80%E8%AF%BE2022&from_source=webtop_search&spm_id_from=333.1007   
 
 【开发者】    
-1月6日  Microsoft Ignite China   
+1月6日  Microsoft Ignite China     
+https://ignitechina.microsoft.com/?campaignChannelId=dc0683dd-6e9e-4089-9ac6-ad888810ed52&eventId=9f4ffd16-cd2d-4816-bded-84dac6b7c759&platform=PC  
+
+【企业微信】   
+1月11日 企业微信2022新品发布会    
+https://work.weixin.qq.com/nl/index/v4Intro  
 
 ## 2021
 
@@ -19,10 +25,10 @@ https://create.baidu.com/?navigation=1221
 
 【数据库】  
 12月23日 第十一届『数据技术嘉年华』（DTC）  
-https://www.modb.pro/course/138  
+https://www.modb.pro/course/138    
 
 【分布式】  
-4月7日 2021全球分布式云大会 - 深圳站  
+12月15日 2021全球分布式云大会 - 深圳站  
 https://www.c114.com.cn/live/gdcc2021sz/  
 
 【操作系统】  
@@ -31,10 +37,15 @@ https://www.uniontech.com/next/topic/uos2021
 http://app.people.cn/h5/live/328    
 https://live.csdn.net/room/csdnnews/B2IpDzpb    
 
+【开发者】  
+11月16日 Google 开发者大会 (Google Developer Summit) 2021 
+https://developersummit.googlecnapps.cn/
+https://cloud.51cto.com/act/google/gds2021
+
 【操作系统】
 11月10日 openEuler Summit 2021    
 https://www.openeuler.org/zh/interaction/summit-list/summit2021/    
-
+https://cloud.51cto.com/act/google/gds2021
 【操作系统】  
 11月9日 操作系统产业峰会2021  
 https://live.issmart.com.cn/Live/issmart_live/#/pc?eventId=5482&  liveId=78ca1e2e&lang=cn&utm_source=live    
@@ -44,8 +55,16 @@ https://live.issmart.com.cn/Live/issmart_live/#/pc?eventId=5482&  liveId=78ca1e2
 https://des.cloud.tencent.com/2021/?utm_source#/   
 
 【开源】  
-第六届中国开源年会（COSCon'21）    
+10月30日 第六届中国开源年会（COSCon'21）    
 https://space.bilibili.com/525037536/channel/collectiondetail?  sid=63363
+
+【厂商】
+10月28日 英特尔On技术创新峰会  
+https://live.infoq.cn/room/1165  
+
+【开源】  
+10月27 gitHub Universe 2021
+https://githubuniverse.com/
 
 【开发者】  
 10月27日 稀土开发者大会2021  
